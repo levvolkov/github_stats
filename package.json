@@ -1,0 +1,15 @@
+{
+  "name": "github_stats",
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/generators/stats_commits.js & node src/generators/stats_general.js & node src/generators/stats_langs.js & node src/generators/stats_visitors.js",
+    "generate:commits": "node src/generators/stats_commits.js",
+    "generate:general": "node src/generators/stats_general.js",
+    "generate:langs": "node src/generators/stats_langs.js",
+    "generate:visitors": "node src/generators/stats_visitors.js"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}

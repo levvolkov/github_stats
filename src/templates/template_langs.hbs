@@ -1,0 +1,201 @@
+<svg id="gh-dark-mode-only" width="360" height="210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="hole-mask">
+      <rect x="5" y="5" width="350" height="200" fill="white"/>
+      <rect x="8" y="8" width="344" height="195" fill="black"/>
+    </mask>
+  </defs>
+  <style>
+    svg {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+#background {
+  fill: {{fillOverlay}}; 
+  stroke: {{strokeBorder}};
+  stroke-width: 1px;
+  rx: 6px;
+  ry: 6px;
+}
+
+#gh-dark-mode-only:target #background {
+  fill: {{fillOverlayDark}};
+  stroke: {{strokeBorderDark}};
+}
+
+.card-outline {
+  fill: {{cardFill}}; 
+  stroke: {{cardStroke}}; 
+  stroke-width: 0.7px;
+}
+  
+#gh-dark-mode-only:target .card-outline {
+  fill: {{cardFillDark}};
+  stroke: {{cardStrokeDark}};
+  stroke-width: 0.5px;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 600;
+  color: {{title}};
+}
+
+#gh-dark-mode-only:target h2 {
+  color: {{titleDark}};
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@keyframes progressGrow {
+  from { width: 0; }
+  to { width: var(--final-width); }
+}
+
+.progress {
+  display: flex;
+  height: 8px;
+  overflow: hidden;
+  background-color: {{progressBar}}; 
+  border-radius: 6px;
+  outline: 1px solid transparent;
+  margin-bottom: 1em;
+}
+
+#gh-dark-mode-only:target .progress {
+  background-color: {{progressBarDark}}; 
+}
+
+.progress-item {
+  width: 0;
+  outline: 2px solid {{progressItemOutline}};
+  border-collapse: collapse;
+  animation: progressGrow 2s cubic-bezier(.33,1.53,.53,1.01) forwards;
+  animation-delay: var(--delay);
+  background-color: var(--color);
+}
+
+#gh-dark-mode-only:target .progress-item {
+  outline: 2px solid {{progressItemOutlineDark}};
+}
+
+@keyframes fadeInScale {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+li {
+  display: inline-flex;
+  font-size: 12px;
+  margin-right: 2ch;
+  align-items: center;
+  flex-wrap: nowrap;
+  opacity: 0;
+  transform: scale(0.9);
+  animation: fadeInScale 1s cubic-bezier(.33,1.53,.53,1.01) forwards;
+  animation-delay: var(--li-delay);
+}
+
+@keyframes bounceIn {
+  0% { transform: translateY(18px) scale(0.7);}
+  60% { transform: translateY(-7px) scale(1.08);}
+  80% { transform: translateY(2px) scale(0.96);}
+  100% { transform: translateY(0) scale(1);}
+}
+
+.octicon {
+  margin-right: 0.5ch;
+  vertical-align: top;
+  animation: bounceIn 1.2s cubic-bezier(.33,1.53,.53,1.01) both;
+  animation-delay: var(--li-delay);
+}
+
+.lang {
+  font-weight: 600;
+  margin-right: 4px;
+  color: {{lang}}; 
+}
+
+#gh-dark-mode-only:target .lang {
+  color: {{langDark}}; 
+}
+
+.percent {
+  color: {{percent}};
+}
+
+#gh-dark-mode-only:target .percent {
+  color: {{percentDark}};
+}
+
+div.ellipsis {
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@keyframes fadein {
+   0% { opacity: 0; }
+   100% { opacity: 1; }    
+}
+  
+.card-outline, h2 { animation: fadein 0.7s linear forwards 0.4s; opacity: 0; }
+
+@supports (-webkit-touch-callout: none) {
+  h2, .progress-item, li, .octicon {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+    width: var(--final-width) !important;
+  }
+}
+
+@supports (-webkit-touch-callout: none) {
+  .card-outline {
+    opacity: 1 !important;
+  }
+}
+</style>
+<g>
+  <rect x="5" y="5" id="background" width="350" height="200" mask="url(#hole-mask)"/>
+  <rect class="card-outline" x="8" y="8" width="344" height="194"/>
+  <g>
+    <foreignObject x="21" y="17" width="318" height="176">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
+      <h2>Languages Used (By File Size)</h2>
+      <div>
+        <span class="progress">
+          {{#each languages}}
+          <span class="progress-item" style="--final-width: {{percent}}%; --color: {{color}}; --delay: {{delay}}s;"></span>
+          {{/each}}
+          </span>
+          </div>
+          <ul>
+            {{#each languages}}
+              <li style="--li-delay: {{delay}}s;">
+                <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:{{color}};"
+                  viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                  <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+                </svg>
+                <span class="lang">{{lang}}</span>
+                <span class="percent">{{percentFixed}}%</span>
+              </li>
+            {{/each}}
+          </ul>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
+</svg>
