@@ -214,7 +214,7 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">diplomaProject-QA</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">8</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">7</td>
           <td class="date-range" style="width: 120px; text-align: center;">30.06 - 13.07</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
@@ -247,11 +247,11 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">API-CI</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">allureReport</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">01.07 - 09.07</td>
+          <td class="date-range" style="width: 120px; text-align: center;">05.07 - 14.07</td>
         </tr>
         </tbody>
       </table>
