@@ -224,9 +224,18 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">5</td>
-          <td class="date-range" style="width: 120px; text-align: center;">06.08 - 14.08</td>
+          <td class="date-range" style="width: 120px; text-align: center;">06.08 - 19.08</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">espresso-advanced-automation</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
+          <td class="date-range" style="width: 120px; text-align: center;">09.08 - 19.08</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">pageObject</span>
@@ -235,23 +244,14 @@
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
           <td class="date-range" style="width: 120px; text-align: center;">08.08 - 18.08</td>
         </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">allureReport</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">11.08 - 16.08</td>
-        </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">espresso-advanced-automation</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">XCTest_ios_automation</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">09.08 - 13.08</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
+          <td class="date-range" style="width: 120px; text-align: center;">12.08 - 19.08</td>
         </tr>
         </tbody>
       </table>
