@@ -152,7 +152,7 @@
   <g transform="translate(83, 80)">
     <text class="stat tc" y="15" text-anchor="middle">2469</text>
     <text class="label tc" y="50" text-anchor="middle">Total Contributions</text>
-    <text class="date tc" y="73" text-anchor="middle">Jul 26, 2021 - Aug 18, 2025</text>
+    <text class="date tc" y="73" text-anchor="middle">Jul 26, 2021 - Aug 19, 2025</text>
   </g>
 
   <!-- Section 2: Current Streak -->
@@ -160,9 +160,9 @@
     <g mask="url(#ringMask)">
       <circle cx="0" cy="0" r="38" fill="none" class="ring" transform="rotate(-90 0 0)"/>
     </g>
-    <text class="stat streak" y="6" text-anchor="middle">4</text>
+    <text class="stat streak" y="6" text-anchor="middle">0</text>
     <text class="label streak" y="65" text-anchor="middle">Current Streak</text>
-    <text class="date streak" y="88" text-anchor="middle">Aug 15, 2025 - Aug 18, 2025</text>
+    <text class="date streak" y="88" text-anchor="middle">N/A</text>
     <!-- Fire icon -->
     <g transform="translate(0, -55)">
       <path d="M -12 -0.5 L 15 -0.5 L 15 23.5 L -12 23.5 L -12 -0.5 Z" fill="none"/>
@@ -188,6 +188,6 @@
 
   <!-- Footer -->
   <g transform="translate(230, 188)">
-    <text class="footer" text-anchor="middle">Updated last at: Aug 19 2025, 02:14</text>
+    <text class="footer" text-anchor="middle">Updated last at: Aug 19 2025, 04:15</text>
   </g>
 </svg>
