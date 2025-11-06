@@ -238,20 +238,20 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">espresso</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
+          <td class="date-range" style="width: 120px; text-align: center;">29.10 - 06.11</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">ui_automator_android_testing</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
           <td class="date-range" style="width: 120px; text-align: center;">26.10 - 05.11</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">eslint-and-prettier</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">2</td>
-          <td class="date-range" style="width: 120px; text-align: center;">24.10 - 01.11</td>
         </tr>
         </tbody>
       </table>
