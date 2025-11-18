@@ -238,20 +238,20 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">load_testing_report</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
+          <td class="date-range" style="width: 120px; text-align: center;">09.11 - 18.11</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">autonomous_work_of_telegram_bot_nasa</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
           <td class="date-range" style="width: 120px; text-align: center;">06.11 - 16.11</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">load_testing_report</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">09.11 - 14.11</td>
         </tr>
         </tbody>
       </table>
