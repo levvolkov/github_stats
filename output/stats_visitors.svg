@@ -214,8 +214,8 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">github_stats</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">18</td>
-          <td class="date-range" style="width: 120px; text-align: center;">13.11 - 27.11</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">17</td>
+          <td class="date-range" style="width: 120px; text-align: center;">14.11 - 27.11</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -223,28 +223,10 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">diplomaProject-QA</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">5</td>
-          <td class="date-range" style="width: 120px; text-align: center;">13.11 - 26.11</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
+          <td class="date-range" style="width: 120px; text-align: center;">14.11 - 26.11</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">appium</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">13.11 - 25.11</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">espresso</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">13.11 - 24.11</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">load_testing_report</span>
@@ -252,6 +234,24 @@
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
           <td class="date-range" style="width: 120px; text-align: center;">14.11 - 27.11</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">appium</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
+          <td class="date-range" style="width: 120px; text-align: center;">17.11 - 25.11</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">espresso</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
+          <td class="date-range" style="width: 120px; text-align: center;">19.11 - 24.11</td>
         </tr>
         </tbody>
       </table>
