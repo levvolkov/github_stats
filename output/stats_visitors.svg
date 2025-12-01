@@ -214,7 +214,7 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">github_stats</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">19</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">18</td>
           <td class="date-range" style="width: 120px; text-align: center;">17.11 - 01.12</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
@@ -229,20 +229,20 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">diplomaProject-QA</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">4</td>
+          <td class="date-range" style="width: 120px; text-align: center;">17.11 - 01.12</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">dashboard_cypress_jenkins</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
           <td class="date-range" style="width: 120px; text-align: center;">21.11 - 28.11</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">diplomaProject-QA</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">17.11 - 30.11</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
