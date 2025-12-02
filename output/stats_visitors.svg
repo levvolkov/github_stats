@@ -223,7 +223,7 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">load_testing_report</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">5</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">6</td>
           <td class="date-range" style="width: 120px; text-align: center;">25.11 - 02.12</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
@@ -242,7 +242,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
-          <td class="date-range" style="width: 120px; text-align: center;">18.11 - 01.12</td>
+          <td class="date-range" style="width: 120px; text-align: center;">19.11 - 01.12</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
