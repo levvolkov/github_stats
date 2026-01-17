@@ -214,8 +214,8 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">github_stats</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">34</td>
-          <td class="date-range" style="width: 120px; text-align: center;">03.01 - 16.01</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">28</td>
+          <td class="date-range" style="width: 120px; text-align: center;">02.01 - 15.01</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -233,7 +233,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">5</td>
-          <td class="date-range" style="width: 120px; text-align: center;">03.01 - 16.01</td>
+          <td class="date-range" style="width: 120px; text-align: center;">02.01 - 15.01</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -242,7 +242,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">03.01 - 16.01</td>
+          <td class="date-range" style="width: 120px; text-align: center;">02.01 - 15.01</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -251,7 +251,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">03.01 - 16.01</td>
+          <td class="date-range" style="width: 120px; text-align: center;">01.01 - 14.01</td>
         </tr>
         </tbody>
       </table>
