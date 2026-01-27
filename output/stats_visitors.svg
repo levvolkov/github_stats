@@ -214,8 +214,8 @@
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">github_stats</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">40</td>
-          <td class="date-range" style="width: 120px; text-align: center;">12.01 - 25.01</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">37</td>
+          <td class="date-range" style="width: 120px; text-align: center;">13.01 - 26.01</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -224,7 +224,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">8</td>
-          <td class="date-range" style="width: 120px; text-align: center;">12.01 - 25.01</td>
+          <td class="date-range" style="width: 120px; text-align: center;">13.01 - 26.01</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
