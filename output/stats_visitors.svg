@@ -229,29 +229,29 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">testingWeb</span>
-            </div>
-          </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">5</td>
-          <td class="date-range" style="width: 120px; text-align: center;">18.01 - 31.01</td>
-        </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
-          <td class="repo-name" style="width: 186px; text-align: center;">
-            <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">levvolkov</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">course-work</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">16.01 - 29.01</td>
+          <td class="date-range" style="width: 120px; text-align: center;">19.01 - 01.02</td>
         </tr>
-          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
               <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">tour-pay-gateway-tests</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">4</td>
-          <td class="date-range" style="width: 120px; text-align: center;">16.01 - 29.01</td>
+          <td class="date-range" style="width: 120px; text-align: center;">18.01 - 31.01</td>
+        </tr>
+          <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
+          <td class="repo-name" style="width: 186px; text-align: center;">
+            <div style="display: flex; align-items: center; justify-content: center;">
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">diplomaProject-QA</span>
+            </div>
+          </td>
+          <td class="unique-count" style="width: 130px; text-align: center;">3</td>
+          <td class="date-range" style="width: 120px; text-align: center;">18.01 - 31.01</td>
         </tr>
         </tbody>
       </table>
