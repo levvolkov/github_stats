@@ -220,16 +220,16 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 1.775s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">tour-pay-gateway-tests</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">course-work</span>
             </div>
           </td>
-          <td class="unique-count" style="width: 130px; text-align: center;">7</td>
-          <td class="date-range" style="width: 120px; text-align: center;">24.01 - 06.02</td>
+          <td class="unique-count" style="width: 130px; text-align: center;">6</td>
+          <td class="date-range" style="width: 120px; text-align: center;">26.01 - 08.02</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.15s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">course-work</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">tour-pay-gateway-tests</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">6</td>
