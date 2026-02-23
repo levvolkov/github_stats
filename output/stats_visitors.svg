@@ -233,7 +233,7 @@
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">7</td>
-          <td class="date-range" style="width: 120px; text-align: center;">08.02 - 21.02</td>
+          <td class="date-range" style="width: 120px; text-align: center;">09.02 - 22.02</td>
         </tr>
           <tr class="repo-row" style="height: 20px; animation-delay: 2.525s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
@@ -247,7 +247,7 @@
           <tr class="repo-row" style="height: 20px; animation-delay: 2.9s;">
           <td class="repo-name" style="width: 186px; text-align: center;">
             <div style="display: flex; align-items: center; justify-content: center;">
-              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">espresso</span>
+              <span style="margin-left: 10px; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">automation-practice-form</span>
             </div>
           </td>
           <td class="unique-count" style="width: 130px; text-align: center;">3</td>
